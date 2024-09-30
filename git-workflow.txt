@@ -1,0 +1,10 @@
+Intialize a new Repository - git init
+Add files to the staging area - git add .
+Commit the changes- git commit -m "TaskApp Project"
+Add the Remote Repository -git remote add origin https://github.com/Ravine1Rianga/TaskApp.git. I received the error remoteorigin already exists and I updated the remote URL 
+Push to the master branch -git push -u origin master
+
+ADDITIONAL PUSHES ARE DONE:
+git add .
+git commit -m "Your commit message"
+git push
